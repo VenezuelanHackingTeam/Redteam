@@ -1,0 +1,1 @@
+https://github.com/bjeborn/basic-auth-pot HTTP Basic Authentication honeyPot.
